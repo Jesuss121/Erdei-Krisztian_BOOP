@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b721490-ebd9-4533-8f78-5fc19498a535" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clnica/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clnica/src/main/java/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clnica/src/main/java/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clnica/src/main/java/Veverita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clnica/src/main/java/koala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/.idea/Lab 6.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/lab6.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.2/lab6.2/src/TestSah.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/Lab6.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/Gindac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/GindacDeApa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/Insecta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/Tantari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/TantariUrs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab 6.3/Lab6.3/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/Lab6.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/src/Caiet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/src/Ghiozdan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/src/Manual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/src/Rechizita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/Lab6.1/src/TestGhiozdan.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2y5vFUYEAeswDNTubQpLrBKdzAT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ekris/BOOP/Erdei-Krisztian_BOOP/Lab9/Lab9.1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b721490-ebd9-4533-8f78-5fc19498a535" name="Changes" comment="" />
+      <created>1749137144115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749137144115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/main/java/Garaj.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
